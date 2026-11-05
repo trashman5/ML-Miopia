@@ -220,4 +220,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 predictions_test.csv
+
+predictions*
 .DS_Store
